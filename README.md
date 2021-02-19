@@ -2,4 +2,6 @@
 ### npm install react-native-custom-scroll
 ### yarn add react-native-custom-scroll
 
-## npx react-native link
+## ==========================================
+
+### npx react-native link
